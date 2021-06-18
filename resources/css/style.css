@@ -1,0 +1,46 @@
+html {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+h1 {
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+
+.load {
+    text-align: center;
+}
+
+img {
+    margin-bottom: 2.0em;
+}
+.load a {
+    color:aquamarine;
+    font-size: 16px;
+    margin-bottom: 2.0em;
+}
+
+.video {
+    align-items: center;
+    margin: 0 auto; 
+    width: 400px;
+    margin-bottom: 2.0em;
+}
+
+#guide {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#points {
+    color: gray;
+    font-size: 21px;
+}
+
+#copyright {
+    text-align: right;
+    color: gray;
+}
